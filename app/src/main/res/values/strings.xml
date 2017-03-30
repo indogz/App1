@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">App1</string>
+    <string name="app_name">MissionManager</string>
+    <string name="submit">Submit</string>
+    <string name="textView1Text">Text will Apprear here</string>
 </resources>
